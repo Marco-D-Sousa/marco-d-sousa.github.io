@@ -349,3 +349,7 @@ ul {
   font-size: 1.1rem;
   font-weight: 700;
 }
+
+h4 {
+  color: var(--second-color);
+}
