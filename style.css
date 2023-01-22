@@ -340,16 +340,6 @@ ul {
   line-height: 35px;
 }
 
-.version {
-  display: flex;
-  gap: 15px;
-  position: absolute;
-  bottom: -1942px;
-  right: 300px;
-  font-size: 1.1rem;
-  font-weight: 700;
-}
-
 h4 {
   color: #E0FBFC;
 }
